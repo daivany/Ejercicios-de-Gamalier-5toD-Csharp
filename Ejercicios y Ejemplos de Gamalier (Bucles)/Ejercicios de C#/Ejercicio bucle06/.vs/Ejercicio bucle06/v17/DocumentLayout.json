@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Ejercicio bucle06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A078903B-8CD3-47E7-A4A4-F3F167E907B4}|Ejercicio bucle06\\Ejercicio bucle06.csproj|c:\\users\\user\\source\\repos\\ejercicio bucle06\\ejercicio bucle06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A078903B-8CD3-47E7-A4A4-F3F167E907B4}|Ejercicio bucle06\\Ejercicio bucle06.csproj|solutionrelative:ejercicio bucle06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ejercicio bucle06\\Ejercicio bucle06\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio bucle06\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ejercicio bucle06\\Ejercicio bucle06\\Program.cs",
+              "RelativeToolTip": "Ejercicio bucle06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:07:54.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Clases_y_Objetos\Clases_y_Objetos\bin\Debug\Clases_y_Objetos.exe.config
+C:\Users\User\source\repos\Clases_y_Objetos\Clases_y_Objetos\bin\Debug\Clases_y_Objetos.exe
+C:\Users\User\source\repos\Clases_y_Objetos\Clases_y_Objetos\bin\Debug\Clases_y_Objetos.pdb
+C:\Users\User\source\repos\Clases_y_Objetos\Clases_y_Objetos\obj\Debug\Clases_y_Objetos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Clases_y_Objetos\Clases_y_Objetos\obj\Debug\Clases_y_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Clases_y_Objetos\Clases_y_Objetos\obj\Debug\Clases_y_Objetos.exe
+C:\Users\User\source\repos\Clases_y_Objetos\Clases_y_Objetos\obj\Debug\Clases_y_Objetos.pdb

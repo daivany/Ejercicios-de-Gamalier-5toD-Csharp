@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Bucle04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D954B-6CC2-4683-B3CB-A604A3F9DA97}|Bucle04\\Bucle04.csproj|c:\\users\\user\\source\\repos\\bucle04\\bucle04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D954B-6CC2-4683-B3CB-A604A3F9DA97}|Bucle04\\Bucle04.csproj|solutionrelative:bucle04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Bucle04\\Bucle04\\Program.cs",
+              "RelativeDocumentMoniker": "Bucle04\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Bucle04\\Bucle04\\Program.cs",
+              "RelativeToolTip": "Bucle04\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:40:24.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

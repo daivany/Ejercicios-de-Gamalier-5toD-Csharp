@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Bucle04\Bucle04\obj\Debug\net8.0\Bucle04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Bucle04\Bucle04\obj\Debug\net8.0\Bucle04.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bucle04\Bucle04\obj\Debug\net8.0\Bucle04.AssemblyInfo.cs
+C:\Users\User\source\repos\Bucle04\Bucle04\obj\Debug\net8.0\Bucle04.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bucle04\Bucle04\bin\Debug\net8.0\Bucle04.exe
+C:\Users\User\source\repos\Bucle04\Bucle04\bin\Debug\net8.0\Bucle04.deps.json
+C:\Users\User\source\repos\Bucle04\Bucle04\bin\Debug\net8.0\Bucle04.runtimeconfig.json
+C:\Users\User\source\repos\Bucle04\Bucle04\bin\Debug\net8.0\Bucle04.dll
+C:\Users\User\source\repos\Bucle04\Bucle04\bin\Debug\net8.0\Bucle04.pdb
+C:\Users\User\source\repos\Bucle04\Bucle04\obj\Debug\net8.0\Bucle04.dll
+C:\Users\User\source\repos\Bucle04\Bucle04\obj\Debug\net8.0\refint\Bucle04.dll
+C:\Users\User\source\repos\Bucle04\Bucle04\obj\Debug\net8.0\Bucle04.pdb
+C:\Users\User\source\repos\Bucle04\Bucle04\obj\Debug\net8.0\Bucle04.genruntimeconfig.cache
+C:\Users\User\source\repos\Bucle04\Bucle04\obj\Debug\net8.0\ref\Bucle04.dll

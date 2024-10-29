@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arreglo02\Arreglo02\bin\Debug\net8.0\Arreglo02.exe
+C:\Users\User\source\repos\Arreglo02\Arreglo02\bin\Debug\net8.0\Arreglo02.deps.json
+C:\Users\User\source\repos\Arreglo02\Arreglo02\bin\Debug\net8.0\Arreglo02.runtimeconfig.json
+C:\Users\User\source\repos\Arreglo02\Arreglo02\bin\Debug\net8.0\Arreglo02.dll
+C:\Users\User\source\repos\Arreglo02\Arreglo02\bin\Debug\net8.0\Arreglo02.pdb
+C:\Users\User\source\repos\Arreglo02\Arreglo02\obj\Debug\net8.0\Arreglo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arreglo02\Arreglo02\obj\Debug\net8.0\Arreglo02.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arreglo02\Arreglo02\obj\Debug\net8.0\Arreglo02.AssemblyInfo.cs
+C:\Users\User\source\repos\Arreglo02\Arreglo02\obj\Debug\net8.0\Arreglo02.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arreglo02\Arreglo02\obj\Debug\net8.0\Arreglo02.dll
+C:\Users\User\source\repos\Arreglo02\Arreglo02\obj\Debug\net8.0\refint\Arreglo02.dll
+C:\Users\User\source\repos\Arreglo02\Arreglo02\obj\Debug\net8.0\Arreglo02.pdb
+C:\Users\User\source\repos\Arreglo02\Arreglo02\obj\Debug\net8.0\Arreglo02.genruntimeconfig.cache
+C:\Users\User\source\repos\Arreglo02\Arreglo02\obj\Debug\net8.0\ref\Arreglo02.dll

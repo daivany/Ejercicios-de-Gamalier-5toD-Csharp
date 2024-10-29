@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Bucle03\Bucle03\bin\Debug\net8.0\Bucle03.exe
+C:\Users\User\source\repos\Bucle03\Bucle03\bin\Debug\net8.0\Bucle03.deps.json
+C:\Users\User\source\repos\Bucle03\Bucle03\bin\Debug\net8.0\Bucle03.runtimeconfig.json
+C:\Users\User\source\repos\Bucle03\Bucle03\bin\Debug\net8.0\Bucle03.dll
+C:\Users\User\source\repos\Bucle03\Bucle03\bin\Debug\net8.0\Bucle03.pdb
+C:\Users\User\source\repos\Bucle03\Bucle03\obj\Debug\net8.0\Bucle03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Bucle03\Bucle03\obj\Debug\net8.0\Bucle03.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bucle03\Bucle03\obj\Debug\net8.0\Bucle03.AssemblyInfo.cs
+C:\Users\User\source\repos\Bucle03\Bucle03\obj\Debug\net8.0\Bucle03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bucle03\Bucle03\obj\Debug\net8.0\Bucle03.dll
+C:\Users\User\source\repos\Bucle03\Bucle03\obj\Debug\net8.0\refint\Bucle03.dll
+C:\Users\User\source\repos\Bucle03\Bucle03\obj\Debug\net8.0\Bucle03.pdb
+C:\Users\User\source\repos\Bucle03\Bucle03\obj\Debug\net8.0\Bucle03.genruntimeconfig.cache
+C:\Users\User\source\repos\Bucle03\Bucle03\obj\Debug\net8.0\ref\Bucle03.dll
