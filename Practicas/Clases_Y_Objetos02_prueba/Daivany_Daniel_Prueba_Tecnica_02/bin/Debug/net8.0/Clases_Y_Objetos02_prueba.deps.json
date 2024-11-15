@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Clases_Y_Objetos02_prueba/1.0.0": {
+        "runtime": {
+          "Clases_Y_Objetos02_prueba.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clases_Y_Objetos02_prueba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\Herencia03\Herencia03\obj\Debug\Herencia03.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Herencia03\Herencia03\obj\Debug\Herencia03.csproj.CoreCompileInputs.cache

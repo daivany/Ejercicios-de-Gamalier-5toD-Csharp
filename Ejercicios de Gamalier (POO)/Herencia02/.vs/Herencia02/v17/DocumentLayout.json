@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Herencia02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3347FC5A-13D2-4890-B4C3-F4A90DBCE1DC}|Herencia02\\Herencia02.csproj|c:\\users\\user\\source\\repos\\ejercicios de gamalier (poo)\\herencia02\\herencia02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3347FC5A-13D2-4890-B4C3-F4A90DBCE1DC}|Herencia02\\Herencia02.csproj|solutionrelative:herencia02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3347FC5A-13D2-4890-B4C3-F4A90DBCE1DC}|Herencia02\\Herencia02.csproj|C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Herencia02\\herencia02\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3347FC5A-13D2-4890-B4C3-F4A90DBCE1DC}|Herencia02\\Herencia02.csproj|solutionrelative:herencia02\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Herencia02\\Herencia02\\Class5.cs",
+              "RelativeDocumentMoniker": "Herencia02\\Class5.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Herencia02\\Herencia02\\Class5.cs",
+              "RelativeToolTip": "Herencia02\\Class5.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:33:21.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Herencia02\\Herencia02\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia02\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Herencia02\\Herencia02\\Program.cs",
+              "RelativeToolTip": "Herencia02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:32:49.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

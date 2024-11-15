@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Herencia01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75CBC86-D744-4D93-A06F-C3A74BE6F08F}|Herencia01\\Herencia01.csproj|C:\\Users\\User\\source\\repos\\Herencia01\\herencia01\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75CBC86-D744-4D93-A06F-C3A74BE6F08F}|Herencia01\\Herencia01.csproj|solutionrelative:herencia01\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75CBC86-D744-4D93-A06F-C3A74BE6F08F}|Herencia01\\Herencia01.csproj|c:\\users\\user\\source\\repos\\herencia01\\herencia01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75CBC86-D744-4D93-A06F-C3A74BE6F08F}|Herencia01\\Herencia01.csproj|solutionrelative:herencia01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Herencia01\\Herencia01\\Class4.cs",
+              "RelativeDocumentMoniker": "Herencia01\\Class4.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Herencia01\\Herencia01\\Class4.cs",
+              "RelativeToolTip": "Herencia01\\Class4.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:26:17.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Herencia01\\Herencia01\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia01\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Herencia01\\Herencia01\\Program.cs",
+              "RelativeToolTip": "Herencia01\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:24:13.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

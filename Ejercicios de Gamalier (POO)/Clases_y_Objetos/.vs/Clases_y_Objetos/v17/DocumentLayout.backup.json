@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Clases_y_Objetos\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Clases_y_Objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD1095D9-2FFD-449C-AC5B-CB9CBEB2912D}|Clases_y_Objetos\\Clases_y_Objetos.csproj|c:\\users\\user\\source\\repos\\clases_y_objetos\\clases_y_objetos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1095D9-2FFD-449C-AC5B-CB9CBEB2912D}|Clases_y_Objetos\\Clases_y_Objetos.csproj|solutionrelative:clases_y_objetos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD1095D9-2FFD-449C-AC5B-CB9CBEB2912D}|Clases_y_Objetos\\Clases_y_Objetos.csproj|c:\\users\\user\\source\\repos\\ejercicios de gamalier (poo)\\clases_y_objetos\\clases_y_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1095D9-2FFD-449C-AC5B-CB9CBEB2912D}|Clases_y_Objetos\\Clases_y_Objetos.csproj|solutionrelative:clases_y_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD1095D9-2FFD-449C-AC5B-CB9CBEB2912D}|Clases_y_Objetos\\Clases_y_Objetos.csproj|c:\\users\\user\\source\\repos\\clases_y_objetos\\clases_y_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1095D9-2FFD-449C-AC5B-CB9CBEB2912D}|Clases_y_Objetos\\Clases_y_Objetos.csproj|solutionrelative:clases_y_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD1095D9-2FFD-449C-AC5B-CB9CBEB2912D}|Clases_y_Objetos\\Clases_y_Objetos.csproj|C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Clases_y_Objetos\\clases_y_objetos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1095D9-2FFD-449C-AC5B-CB9CBEB2912D}|Clases_y_Objetos\\Clases_y_Objetos.csproj|solutionrelative:clases_y_objetos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Clases_y_Objetos\\Clases_y_Objetos\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Clases_y_Objetos\\Clases_y_Objetos\\Class1.cs",
               "RelativeDocumentMoniker": "Clases_y_Objetos\\Class1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Clases_y_Objetos\\Clases_y_Objetos\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Clases_y_Objetos\\Clases_y_Objetos\\Class1.cs",
               "RelativeToolTip": "Clases_y_Objetos\\Class1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T13:59:41.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Clases_y_Objetos\\Clases_y_Objetos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Clases_y_Objetos\\Clases_y_Objetos\\Program.cs",
               "RelativeDocumentMoniker": "Clases_y_Objetos\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Clases_y_Objetos\\Clases_y_Objetos\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (POO)\\Clases_y_Objetos\\Clases_y_Objetos\\Program.cs",
               "RelativeToolTip": "Clases_y_Objetos\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwA4AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T13:59:39.114Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\bin\Debug\net8.0\Matriz_Teatro.exe
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\bin\Debug\net8.0\Matriz_Teatro.deps.json
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\bin\Debug\net8.0\Matriz_Teatro.runtimeconfig.json
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\bin\Debug\net8.0\Matriz_Teatro.dll
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\bin\Debug\net8.0\Matriz_Teatro.pdb
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\Matriz_Teatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\Matriz_Teatro.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\Matriz_Teatro.AssemblyInfo.cs
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\Matriz_Teatro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\Matriz_Teatro.sourcelink.json
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\Matriz_Teatro.dll
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\refint\Matriz_Teatro.dll
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\Matriz_Teatro.pdb
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\Matriz_Teatro.genruntimeconfig.cache
+C:\Users\User\source\repos\Matriz_Teatro\Matriz_Teatro\obj\Debug\net8.0\ref\Matriz_Teatro.dll

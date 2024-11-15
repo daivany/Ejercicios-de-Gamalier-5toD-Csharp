@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Arreglo01\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (Arreglos y Matrices)\\Arreglo01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AF99FEA-0E2A-4822-861C-5E4BB3AAAEC4}|Arreglo01\\Arreglo01.csproj|c:\\users\\user\\source\\repos\\arreglo01\\arreglo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3AF99FEA-0E2A-4822-861C-5E4BB3AAAEC4}|Arreglo01\\Arreglo01.csproj|c:\\users\\user\\source\\repos\\ejercicios de gamalier (arreglos y matrices)\\arreglo01\\arreglo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AF99FEA-0E2A-4822-861C-5E4BB3AAAEC4}|Arreglo01\\Arreglo01.csproj|solutionrelative:arreglo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Arreglo01\\Arreglo01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (Arreglos y Matrices)\\Arreglo01\\Arreglo01\\Program.cs",
               "RelativeDocumentMoniker": "Arreglo01\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Arreglo01\\Arreglo01\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ejercicios de Gamalier (Arreglos y Matrices)\\Arreglo01\\Arreglo01\\Program.cs",
               "RelativeToolTip": "Arreglo01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:32:15.316Z",
               "EditorCaption": ""
